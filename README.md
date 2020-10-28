@@ -6,7 +6,7 @@
 
 I'm a student in Software Engineering 🎓 in China. I'm a passionate learner and love to explore new technologies and leverage them to solve real-life problems ✨.
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+
   
 **Talking about Personal Stuffs:**
 
