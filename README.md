@@ -12,8 +12,7 @@ I'm a student in Software Engineering 🎓 in China. I'm a passionate learner an
 - 👨🏻‍💻   Most of my projects are available on [Github](https://github.com/xylagbx).
 
 <h1>GitHub Stats</h1>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=xylagbx&show_icons=true" />
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xylagbx&layout=compact" />
+
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=xylagbx&show_icons=true&hide_border=true" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xylagbx&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
