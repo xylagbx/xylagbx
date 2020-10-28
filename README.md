@@ -1,16 +1,13 @@
-### Hi there 👋
+Hi, I'm xylagbx. An undergraduate student in China.
 
-<!--
-**xylagbx/xylagbx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  
+**Talking about Personal Stuffs:**
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning C, Python and HTML; 
+- 💬 Ask me about anything, I am happy to help;
+- 📫 How to reach me: [@abhisheknaiidu](https://twitter.com/abhisheknaiidu);
+- 📝[Resume](https://drive.google.com/file/d/10GKdScol1BXsMQmSVO30rswZ8lqkakmy/view)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1>GitHub Stats</h1>
+<p><img src="https://github-readme-stats.vercel.app/api?username=xylagbx;show_icons=true" alt="GitHub Stats"></p>
