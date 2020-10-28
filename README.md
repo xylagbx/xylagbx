@@ -1,4 +1,7 @@
-## Hey 👋, I'm [xylagbx](https://github.com/xylagbx)
+## Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm [xylagbx](https://github.com/xylagbx)
+
+![2020-10-28-14:41:48-二季OP海报（超清）](https://cdn.jsdelivr.net/gh/xylagbx/Picture@master/image/2020-10-28-14:41:48-二季OP海报（超清）.jpeg)
+
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=xylagbx.github&style=flat-square&color=0088cc)
 
 I'm a student in Software Engineering 🎓 in China. I'm a passionate learner and love to explore new technologies and leverage them to solve real-life problems ✨.
