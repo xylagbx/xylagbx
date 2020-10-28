@@ -1,6 +1,6 @@
 Hi, I'm xylagbx. An undergraduate student in China.
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="256" />
   
 **Talking about Personal Stuffs:**
 
